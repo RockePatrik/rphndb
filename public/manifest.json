@@ -1,0 +1,16 @@
+{
+    "short_name": "Ropa",
+    "name": "Ropa",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#BFC9CA",
+    "theme_color": "#ffcb2d",
+    "icons": [
+      {
+        "src": "icono.png",
+        "sizes": "2048x2048",
+        "type": "image/png"
+      }
+    ]
+  }
+  
